@@ -17,7 +17,7 @@ A brief description of your project, what it does, and what technologies you use
 A brief description of your project, what it does, and what technologies you used.
 
 ## Contact Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [matovusharif72@gmail.com](mailto:your-email@example.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
